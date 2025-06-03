@@ -1,16 +1,36 @@
-## Hi there 👋
+# Portafolio de Jhostin
 
-<!--
-**JhostinPinzon/JhostinPinzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋 Soy **Jhostin**, estudiante de la clase de **Open Source**. En este repositorio encontrarás los ejercicios y proyectos que he desarrollado durante el curso.
 
-Here are some ideas to get you started:
+## 📚 Sobre este repositorio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este repositorio sirve como portafolio personal donde se almacenan:
+
+- Ejercicios prácticos realizados en clase.
+- Proyectos colaborativos de código abierto.
+- Recursos y materiales relacionados con el curso.
+
+## 🛠️ Tecnologías utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Git y GitHub
+
+## 📌 Objetivo
+
+El propósito de este portafolio es:
+
+- Documentar mi aprendizaje en el curso de Open Source.
+- Mostrar mis avances y proyectos desarrollados.
+- Facilitar la colaboración y revisión de mis trabajos.
+
+## 📬 Contacto
+
+Puedes contactarme a través de:
+
+- [Correo electrónico](mailto:jhostinpinzonbohorquez29@gmail.com)
+
+---
+
+¡Gracias por visitar mi portafolio! 😊
